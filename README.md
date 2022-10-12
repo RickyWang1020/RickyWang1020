@@ -51,8 +51,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&theme=transparent&repo=2020MCM-ICM)](https://github.com/RickyWang1020/2020MCM-ICM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&theme=transparent&repo=Livegoods_House_Rental)](https://github.com/RickyWang1020/Livegoods_House_Rental)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&theme=transparent&repo=DB_Airline)](https://github.com/RickyWang1020/DB_Airline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&theme=transparent&repo=Eat_Well_Food_Delivery)](https://github.com/RickyWang1020/Eat_Well_Food_Delivery)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&repo=DB_Airline&theme=transparent)](https://github.com/RickyWang1020/DB_Airline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&repo=Eat_Well_Food_Delivery&theme=transparent)](https://github.com/RickyWang1020/Eat_Well_Food_Delivery)
+
 
 <!---
 RickyWang1020/RickyWang1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
