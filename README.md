@@ -6,6 +6,9 @@
 <a href="mailto:xinranwang1999@gmail.com">
     <img height="25" src="https://user-images.githubusercontent.com/50431019/195251019-709e78c2-4932-4758-a0da-7e31958c5509.png"/>
 </a>
+<a href="https://leetcode.cn/u/rickywang1020/">
+    <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
+</a>
 
 ---
 ### :technologist: About Me :
@@ -44,7 +47,10 @@
 ### :chart_with_upwards_trend: My Stats :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyWang1020&hide_border=true&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickyWang1020&layout=compact&hide_border=true&hide=jupyter%20notebook,tex)
+
+<!-- top language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickyWang1020&hide_border=true&hide=jupyter%20notebook,tex)
+-->
 
 <!-- streak info
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RickyWang1020&theme=vue&hide_border=true&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
