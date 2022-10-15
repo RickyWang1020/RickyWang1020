@@ -44,6 +44,14 @@
 </div>
 
 ---
+### :bulb: Selected Projects :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&repo=Eat_Well_Food_Delivery&theme=transparent)](https://github.com/RickyWang1020/Eat_Well_Food_Delivery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&repo=DB_Airline&theme=transparent)](https://github.com/RickyWang1020/DB_Airline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&theme=transparent&repo=Livegoods_House_Rental)](https://github.com/RickyWang1020/Livegoods_House_Rental)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&theme=transparent&repo=2020MCM-ICM)](https://github.com/RickyWang1020/2020MCM-ICM)
+
+---
 ### :chart_with_upwards_trend: My Stats :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyWang1020&hide_border=true&show_icons=true&theme=vue)
@@ -55,17 +63,6 @@
 <!-- streak info
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RickyWang1020&theme=vue&hide_border=true&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 -->
-
----
-### :bulb: Selected Projects :
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&theme=transparent&repo=2020MCM-ICM)](https://github.com/RickyWang1020/2020MCM-ICM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&theme=transparent&repo=Livegoods_House_Rental)](https://github.com/RickyWang1020/Livegoods_House_Rental)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&repo=DB_Airline&theme=transparent)](https://github.com/RickyWang1020/DB_Airline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&repo=Eat_Well_Food_Delivery&theme=transparent)](https://github.com/RickyWang1020/Eat_Well_Food_Delivery)
-
 
 <!---
 RickyWang1020/RickyWang1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
