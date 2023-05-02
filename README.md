@@ -15,8 +15,8 @@
 
 - 📚 I’m currently studying Computer and Information Science at University of Pennsylvania
 - 🌱 I’m interested in Software Development Engineering, I also love to explore Mathematics and Data Science
-- 🧑‍🎓 I graduated from New York University Shanghai with B.S. in Computer Science
-- 🤩 Enthusiastic bodybuilder and weightlifter, also an amateur violin player and basketball player
+- 🎓 I graduated from New York University Shanghai with B.S. in Computer Science
+- 🤩 Enthusiastic bodybuilder and weightlifter, also an amateur violin and basketball player
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
