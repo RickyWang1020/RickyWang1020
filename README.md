@@ -1,5 +1,7 @@
 ### Hello! I am Xinran (Ricky) Wang, welcome to my GitHub page!
 
+![](https://komarev.com/ghpvc/?username=RickyWang1020&color=blueviolet)
+
 <a href="https://www.linkedin.com/in/xinran-ricky-wang-a47539205/">
     <img height="25" src="https://user-images.githubusercontent.com/50431019/195250662-60ac5125-f304-4b8b-bbdf-5b75afcdb0fe.png"/>
 </a>
@@ -13,10 +15,11 @@
 ---
 ### :technologist: About Me :
 
-- 📚 I’m currently studying Computer and Information Science at University of Pennsylvania
+- 📚 I’m currently studying Computer and Information Science at **University of Pennsylvania**
 - 🌱 I’m interested in Software Development Engineering, I also love to explore Mathematics and Data Science
-- 🎓 I graduated from New York University Shanghai with B.S. in Computer Science
-- 🤩 Enthusiastic bodybuilder and weightlifter, also an amateur violin and basketball player
+- 🚀 I had Software Engineer internship experience at **Splunk Inc.** and **ByteDance Ltd.**
+- 🎓 I graduated from **New York University Shanghai** with B.S. in Computer Science
+- 🤩 Enthusiastic bodybuilder and weightlifter, semi-pro Rubik's cube player, and amateur violin and basketball player
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
