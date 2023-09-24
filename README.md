@@ -18,7 +18,7 @@
 - 📚 I’m currently studying Computer and Information Science at **University of Pennsylvania**
 - 🌱 I’m interested in Software Development Engineering, I also love to explore Mathematics and Data Science
 - 🚀 I had Software Engineer internship experience at **Splunk Inc.** and **ByteDance Ltd.**
-- 🎓 I graduated from **New York University Shanghai** with B.S. in Computer Science
+- 🎓 I graduated from **New York University Shanghai** with B.S. *summa cum laude* in Computer Science
 - 🤩 Enthusiastic bodybuilder and weightlifter, semi-pro Rubik's cube player, and amateur violin and basketball player
 
 ---
