@@ -58,7 +58,7 @@
 ---
 ### :chart_with_upwards_trend: My Stats :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RickyWang1020&hide_border=true&show_icons=true&hide_title=true&theme=vue&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats-two-pi-74.vercel.app/api?username=RickyWang1020&hide_border=true&show_icons=true&hide_title=true&theme=vue&include_all_commits=true&count_private=true)
 
 <!-- top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickyWang1020&hide_border=true&count_private=true&hide=jupyter%20notebook,tex,HTML,markdown)
