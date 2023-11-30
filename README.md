@@ -48,6 +48,7 @@
 </div>
 
 ---
+<!-- 
 ### :bulb: Selected Projects :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&repo=Eat_Well_Food_Delivery&theme=transparent)](https://github.com/RickyWang1020/Eat_Well_Food_Delivery)
@@ -56,6 +57,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&theme=transparent&repo=2020MCM-ICM)](https://github.com/RickyWang1020/2020MCM-ICM)
 
 ---
+-->
 ### :chart_with_upwards_trend: My Stats :
 
 ![GitHub stats](https://github-readme-stats-two-pi-74.vercel.app/api?username=RickyWang1020&hide_border=true&show_icons=true&hide_title=true&theme=vue&include_all_commits=true&count_private=true)
