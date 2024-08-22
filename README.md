@@ -15,11 +15,11 @@
 ---
 ### :technologist: About Me :
 
-- 📚 I’m currently studying Computer and Information Science at **University of Pennsylvania**
+- 🤓 I'm currently working as a Software Engineer in New York
 - 🌱 I’m interested in Software Development Engineering, I also love to explore Mathematics and Data Science
 - 🚀 I had Software Engineer internship experience at **Splunk Inc.** and **ByteDance Ltd.**
-- 🎓 I graduated from **New York University Shanghai** with B.S. *summa cum laude* in Computer Science
-- 🤩 Enthusiastic bodybuilder and weightlifter, semi-pro Rubik's cube player, and amateur violin and basketball player
+- 🎓 I graduated from **University of Pennsylvania** with M.S.E in Computer and Information Science, and **New York University Shanghai** with B.S. *summa cum laude* in Computer Science
+- 🤩 Enthusiastic bodybuilder, semi-pro Rubik's cube player, amateur violin and basketball player, and a beginner climber
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
