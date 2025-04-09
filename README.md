@@ -28,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
@@ -36,6 +37,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis"  alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"  alt="Flask" width="40" height="40"/>&nbsp;
@@ -47,7 +49,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
 <!-- 
 ### :bulb: Selected Projects :
 
@@ -57,17 +58,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyWang1020&theme=transparent&repo=2020MCM-ICM)](https://github.com/RickyWang1020/2020MCM-ICM)
 
 ---
--->
-### :chart_with_upwards_trend: My Stats :
-
-![GitHub stats](https://github-readme-stats-two-pi-74.vercel.app/api?username=RickyWang1020&hide_border=true&show_icons=true&hide_title=true&theme=vue&include_all_commits=true&count_private=true)
-
-<!-- top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickyWang1020&hide_border=true&count_private=true&hide=jupyter%20notebook,tex,HTML,markdown)
--->
-
-<!-- streak info
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RickyWang1020&theme=vue&hide_border=true&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 -->
 
 <!---
